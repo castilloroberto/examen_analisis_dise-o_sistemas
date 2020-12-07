@@ -3,7 +3,7 @@ primer parcial
 
 ## Preguntas
 
-### Las actividades de esta fase consisten en entrevistar a los encargados de coordinar a los usuarios, sintetizar el conocimiento obtenido, estimar el alcance del proyecto y documentar los resultados.
+> Las actividades de esta fase consisten en entrevistar a los encargados de coordinar a los usuarios, sintetizar el conocimiento obtenido, estimar el alcance del proyecto y documentar los resultados.
 ```bash
 Identificación de problemas oportunidades y objetivos
 ```
