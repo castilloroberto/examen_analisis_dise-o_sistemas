@@ -16,27 +16,32 @@ Identificación de problemas oportunidades y objetivos
 ```bash
 Desarrollo y documentación del software
 ```
-### En esta etapa el analista prepara una propuesta sintetizando sus hallazgos, proporciona un análisis costo/beneficio y ofrece alternativas y recomendaciones sobre lo que tiene que hacer.
+### Pregunta 3
+> En esta etapa el analista prepara una propuesta sintetizando sus hallazgos, proporciona un análisis costo/beneficio y ofrece alternativas y recomendaciones sobre lo que tiene que hacer.
 ```bash
 Análisis de las necesidades del sistema
 ```
 
-### Incluye la etapa mas larga del desarrollo de los sistemas.
+### Pregunta 4
+> Incluye la etapa mas larga del desarrollo de los sistemas.
 ```bash
 Prueba y mantenimiento del sistema
 ```
 
-### Esta etapa incluye la instalación de elementos hardware y software, migración/conversión de datos y capacitación de usuarios, entre otros.
+### Pregunta 5 
+> Esta etapa incluye la instalación de elementos hardware y software, migración/conversión de datos y capacitación de usuarios, entre otros.
 ```bash
 Implementación y evaluación del sistema
 ```
 
-### Al terminar esta fase el analista debe conocer el funcionamiento del negocio, poseer información muy completa del personal, objetivos, datos y procedimientos implicados.
+### Pregunta 6
+> Al terminar esta fase el analista debe conocer el funcionamiento del negocio, poseer información muy completa del personal, objetivos, datos y procedimientos implicados.
 ```bash
 Determinación de los requerimientos de información
 ```
 
-### Incluye la concepción de la interfaz, diseño de salidas y de base de datos.
+### Pregunta 7
+> Incluye la concepción de la interfaz, diseño de salidas y de base de datos.
 ```bash
 Diseño del sistema recomendado
 ```
