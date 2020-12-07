@@ -3,12 +3,16 @@ primer parcial
 
 ## Preguntas
 
+### Pregunta 1
+
 > Las actividades de esta fase consisten en entrevistar a los encargados de coordinar a los usuarios, sintetizar el conocimiento obtenido, estimar el alcance del proyecto y documentar los resultados.
 ```bash
 Identificación de problemas oportunidades y objetivos
 ```
 
-### En esta etapa se le da vida al sistema y se crean los manuales y otros métodos de ayuda efectiva para la correcta utilización del sistema.
+### Pregunta 2
+
+> En esta etapa se le da vida al sistema y se crean los manuales y otros métodos de ayuda efectiva para la correcta utilización del sistema.
 ```bash
 Desarrollo y documentación del software
 ```
