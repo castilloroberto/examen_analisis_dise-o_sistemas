@@ -1,7 +1,7 @@
 # Examen de Analisis y Diseño de Sistemas
 primer parcial
 
-##Preguntas
+## Preguntas
 
 ### Las actividades de esta fase consisten en entrevistar a los encargados de coordinar a los usuarios, sintetizar el conocimiento obtenido, estimar el alcance del proyecto y documentar los resultados.
 ```bash
